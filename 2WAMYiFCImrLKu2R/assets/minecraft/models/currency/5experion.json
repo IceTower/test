@@ -1,0 +1,6 @@
+{
+	"parent": "currency/1experion",
+	"textures": {
+		"0": "item/money/experion5"
+	}
+}

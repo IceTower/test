@@ -1,0 +1,4 @@
+{
+	"parent": "currency/wallet_normal",
+	"textures": {"1": "item/wallets/green"}
+}

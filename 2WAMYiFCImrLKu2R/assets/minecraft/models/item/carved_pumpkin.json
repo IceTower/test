@@ -1,0 +1,14 @@
+{
+ "parent": "minecraft:block/carved_pumpkin",
+ "overrides": [
+  {"predicate": {"custom_model_data":1}, "model": "mafia"},
+  {"predicate": {"custom_model_data":2}, "model": "shef"},
+  {"predicate": {"custom_model_data":3}, "model": "capela"},
+  {"predicate": {"custom_model_data":4}, "model": "cook"},
+  {"predicate": {"custom_model_data":5}, "model": "witch"},
+  {"predicate": {"custom_model_data":6}, "model": "mask_p"},
+  {"predicate": {"custom_model_data":7}, "model": "mask_s"},
+  {"predicate": {"custom_model_data":8}, "model": "big"},
+  {"predicate": {"custom_model_data":9}, "model": "crown"}
+ ]
+}

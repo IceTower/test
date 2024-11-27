@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+		"layer0": "minecraft:item/stick"
+  },
+  "overrides": [
+    	{"predicate": {"custom_model_data": 1},"model": "minecraft:currency/1experion"},
+    	{"predicate": {"custom_model_data": 2},"model": "minecraft:currency/2experion"},
+        {"predicate": {"custom_model_data": 5},"model": "minecraft:currency/5experion"},
+	{"predicate": {"custom_model_data": 10},"model": "minecraft:currency/10experion"},
+	{"predicate": {"custom_model_data": 20},"model": "minecraft:currency/20experion"},
+	{"predicate": {"custom_model_data": 50},"model": "minecraft:currency/50experion"},
+	{"predicate": {"custom_model_data": 100},"model": "minecraft:currency/100experion"},
+	{"predicate": {"custom_model_data": 500},"model": "minecraft:currency/500experion"}
+  ]
+}

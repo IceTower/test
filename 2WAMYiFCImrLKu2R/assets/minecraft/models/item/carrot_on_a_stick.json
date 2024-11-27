@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/carrot_on_a_stick"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1},"model": "minecraft:currency/wallet_normal"},
+    {"predicate": {"custom_model_data": 2},"model": "minecraft:currency/wallet_normal_opened"},
+    {"predicate": {"custom_model_data": 3},"model": "minecraft:currency/wallet_cyan"},
+    {"predicate": {"custom_model_data": 4},"model": "minecraft:currency/wallet_cyan_opened"},
+    {"predicate": {"custom_model_data": 5},"model": "minecraft:currency/wallet_green"},
+    {"predicate": {"custom_model_data": 6},"model": "minecraft:currency/wallet_green_opened"},
+    {"predicate": {"custom_model_data": 7},"model": "minecraft:currency/wallet_yellow"},
+    {"predicate": {"custom_model_data": 8},"model": "minecraft:currency/wallet_yellow_opened"},
+    {"predicate": {"custom_model_data": 9},"model": "minecraft:currency/wallet_red"},
+    {"predicate": {"custom_model_data": 10},"model": "minecraft:currency/wallet_red_opened"},
+    {"predicate": {"custom_model_data": 11},"model": "minecraft:currency/wallet_blue"},
+    {"predicate": {"custom_model_data": 12},"model": "minecraft:currency/wallet_blue_opened"}
+    ]
+}

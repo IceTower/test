@@ -1,0 +1,7 @@
+{
+	"parent": "currency/wallet_normal_opened",
+	"textures": {
+		"1": "item/wallets/green_opened",
+		"2": "item/wallets/green_top"
+	}
+}
